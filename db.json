@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Men Navy Blue Slim Fit Mid-Rise Clean Look Stretchable Jeans",
+      "price": {
+        "mrp": 1499,
+        "discount": 60,
+        "sp": 599
+      },
+      "brand_name": "Roadster",
+      "sizes": [
+        28,
+        32,
+        34,
+        36,
+        38
+      ],
+      "customer_rating": 3.9,
+      "product_details": [
+        "Navy Blue dark wash 5-pocket mid-rise jeans, clean look, no fade, has a button and zip closure, and waistband with belt loops"
+      ],
+      "images": [
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10064529/2019/8/23/e2101e71-8707-4110-961a-14b675a574481566552597315-Roadster-Men-Jeans-4211566552597089-1.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10064529/2019/8/23/169833b3-b043-4ced-9a33-c0b17922fead1566549173935-Roadster-Men-Jeans-4031566549172277-2.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10064529/2019/8/23/4c970a9c-5808-45fc-bba5-4e1d7e92a4261566549173910-Roadster-Men-Jeans-4031566549172277-3.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10064529/2019/8/23/3f274d20-5c6e-4821-8de2-c710dce8455b1566549173885-Roadster-Men-Jeans-4031566549172277-4.jpg",
+        "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10064529/2019/8/23/04fb55a0-6a60-4b70-a7cf-fee5996657af1566549173861-Roadster-Men-Jeans-4031566549172277-5.jpg"
+      ],
+      "quantity": 50
+    }
+]
